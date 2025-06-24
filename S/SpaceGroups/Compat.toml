@@ -1,0 +1,4 @@
+[0]
+JSON = "0.21.4 - 0.21"
+StaticArrays = "1"
+julia = "1"
