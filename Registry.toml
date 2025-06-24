@@ -1,0 +1,5 @@
+name = "PKPackages"
+uuid = "ddaf0198-fed0-4733-9f3e-308c7afb5be9"
+repo = "git@github.com:pavel-kalouguine/PKPackages.git"
+
+[packages]
