@@ -3,4 +3,5 @@ uuid = "ddaf0198-fed0-4733-9f3e-308c7afb5be9"
 repo = "git@github.com:pavel-kalouguine/PKPackages.git"
 
 [packages]
+932843b2-4280-42b7-9350-1fdceb79e920 = { name = "ChargeFlipPhaser", path = "C/ChargeFlipPhaser" }
 c9e7fe64-f4ce-462e-96f2-f923a4d16e38 = { name = "SpaceGroups", path = "S/SpaceGroups" }
